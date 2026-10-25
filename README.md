@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Signoretto11/Signoretto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://signoretto11.github.io">
+  <img src="banner.svg" alt="Larissa Bueno · Visit signoretto11.github.io" width="100%">
+</a>
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Larissa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science enthusiast from Brazil 🇧🇷
+Building my journey through code, research and innovation.
+
+**[→ Visit my page: signoretto11.github.io](https://signoretto11.github.io)**
+
+</div>
